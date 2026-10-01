@@ -3,7 +3,7 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-BOT_TOKEN = "APNAR_BOT_TOKEN_EKHANE_DIN"
+BOT_TOKEN = "8901508709:AAG8pG-R9I6a4e5wCrMxOAa-6DssT9ZetQ4"
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
